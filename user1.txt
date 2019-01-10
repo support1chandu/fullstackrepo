@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 cool
 good
+
