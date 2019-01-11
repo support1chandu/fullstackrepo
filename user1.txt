@@ -1,7 +1,11 @@
 cool
 good
 <<<<<<< HEAD
+<<<<<<< HEAD
 edited
 =======
 hghd
 >>>>>>> add to data
+=======
+edited
+>>>>>>> edited master
