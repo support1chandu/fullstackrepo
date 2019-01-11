@@ -1,3 +1,7 @@
 cool
 good
+<<<<<<< HEAD
 edited
+=======
+hghd
+>>>>>>> add to data
